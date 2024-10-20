@@ -13,10 +13,13 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yu-yaba&show_icons=true&locale=en&layout=compact" alt="yu-yaba" /></p>
+## 🏃‍♀️ Activities
+ <p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yu-yaba&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yu-yaba&count_private=true&show_icons=true&show_icons=true&theme=tokyonight" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yu-yaba&show_icons=true&locale=en" alt="yu-yaba" /></p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=yu-yaba&theme=tokyonight&column=7)](https://github.com/yu-yaba/github-profile-trophy)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yu-yaba&" alt="yu-yaba" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yu-yaba&row=2&column=3" alt="yu-yaba" /></a> </p>
+[![](https://github-readme-streak-stats.herokuapp.com/?user=yu-yaba&theme=tokyonight)](https://github-readme-streak-stats.herokuapp.com/?user=yu-yaba&theme=tokyonight)
